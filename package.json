@@ -1,0 +1,20 @@
+{
+  "name": "gulp-postcss-px2rpx",
+  "version": "1.0.0",
+  "description": "- 支持1px不转 - 支持comment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aFcFzF/gulp-postcss-px2rpx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aFcFzF/gulp-postcss-px2rpx/issues"
+  },
+  "homepage": "https://github.com/aFcFzF/gulp-postcss-px2rpx#readme"
+}
